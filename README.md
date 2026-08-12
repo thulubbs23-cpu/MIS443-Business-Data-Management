@@ -8,12 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:00C6FF&height=250&section=header&text=MIS443%20-%20BUSINESS%20DATA%20MANAGEMENT&fontSize=38&fontAlignY=40&desc=Turning%20Business%20Data%20into%20Meaningful%20Insights&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Business%20Analysis-Student-00C6FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge"/>
-</p>
+
 
 ---
 
