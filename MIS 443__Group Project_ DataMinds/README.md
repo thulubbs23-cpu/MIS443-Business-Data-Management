@@ -63,7 +63,7 @@ This project was developed for the **MIS443 – Business Data Management** cours
 ## Entity Relationship Diagram (ERD)
 
 <p align="center">
-  <img src="ERD%20Group%20Project.png" width="900" alt="Entity Relationship Diagram">
+  <img src="ERD%20Group%20Project.png" width="500" alt="Entity Relationship Diagram">
 </p>
 
 ## How to Run
